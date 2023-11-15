@@ -1,7 +1,7 @@
 # SV genotyping using graph-based genome
-`
+```
 sh graphtyper.sh
-`
+```
 
 # Heritability analysis and Genome-wide association studies
 

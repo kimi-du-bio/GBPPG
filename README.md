@@ -1,6 +1,6 @@
 Note: some codes were adopted according to the configuration environment of the High-performance Computing Platform of China Agricultural University.
 
-#Description of each directory
+# Description of each directory
 * The assembly directory contains codes for genome assembly. 
 
 * The annotation directory contains codes for repeat annotations and gene annotations.

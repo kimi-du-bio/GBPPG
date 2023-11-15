@@ -1,7 +1,7 @@
 Repeats annotation
-`
+```
 sh repeatmasker.sh
-`
+```
 
 Gene annotation
 ```

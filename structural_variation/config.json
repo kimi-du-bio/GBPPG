@@ -1,0 +1,9 @@
+{
+        "install" :"software/smartie-sv",
+        "targets" : {
+                  "ref" : "ref.fasta"
+                  },
+        "queries" : {
+                 "query"   : "query.fasta"
+           },
+}

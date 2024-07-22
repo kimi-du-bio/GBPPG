@@ -1,6 +1,6 @@
 # Graph-based genome construction and SV genotyping
 `
-sh graphtyper.sh
+sh vg.sh
 `
 
 # Benchmark study of graph simulation
